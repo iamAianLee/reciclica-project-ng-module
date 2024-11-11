@@ -1,0 +1,7 @@
+{
+  "name": "reciclica-project-ngmodule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
